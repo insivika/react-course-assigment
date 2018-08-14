@@ -1,0 +1,7 @@
+.input-field{
+  width: 30%;
+  background-color: grey;
+  margin: auto;
+  padding: 20px 0;
+  box-shadow: 0 3px 30px rgb(177, 177, 177);
+}
